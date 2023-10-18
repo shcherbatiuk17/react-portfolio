@@ -1,0 +1,48 @@
+* {
+  box-sizing: content-box;
+}
+
+body {
+  margin: 5em;
+  font-family: Comic Sans MS, cursive;
+  background-color: pink;
+  color: green;
+  background-image: url("assets/images/background5.png");
+  background-size: 200px;
+  background-repeat: repeat;
+  background-position: top left;
+  min-height: 50vh;
+  padding: 0.5em;
+  border: 5px solid purple;
+}
+
+code {
+  font-family: "Courier New", monospace;
+  text-decoration: underline;
+}
+
+.header-container {
+  display: block;
+  text-align: right;
+  background-color: red;
+  height: 50px;
+}
+
+@media screen and (max-width: 780px) {
+  header {
+    font-size: 6px;
+    height: 30px;
+    background-color: yellow;
+  }
+  ul li {
+    text-transform: uppercase;
+  }
+  .link {
+    text-decoration: line-through;
+  }
+  .header-container {
+    text-align: center;
+    background-color: cyan;
+    height: 20px;
+  }
+}
