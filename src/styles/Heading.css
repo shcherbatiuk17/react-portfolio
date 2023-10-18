@@ -1,0 +1,20 @@
+nav li.active {
+    font-weight: 900;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: #FF69B4;
+}
+
+.link {
+    border: dotted 8px black;
+    color: magenta;
+    background: linear-gradient(to bottom, green, yellow);
+    transform: rotate(10deg);
+    font-size: 1.5em;
+}
+
+.link:hover {
+    color: cyan;
+    background: repeating-linear-gradient(45deg, #F00, #F00 10px, #0F0 10px, #0F0 20px);
+    transform: rotate(-10deg);
+}
