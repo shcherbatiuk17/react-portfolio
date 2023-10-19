@@ -1,6 +1,6 @@
 import React from 'react';
-import Project from '../components/Project'; // Consider creating an "UglyProject" component with unconventional styling.
-import Projects from '../Projects'; // Replace with unconventional project data.
+import Project from '../components/Project';
+// import projects from '../projects'; 
 
 const Styles = {
     grid: {
@@ -15,11 +15,11 @@ const Styles = {
 const Portfolio = () => {
     return (
         <div className="ugly-vertical-segment">
-            <div style={uglyStyles.grid} className="ugly-middle-aligned-ugly-grid-container">
+            <div style={Styles.grid} className="ugly-middle-aligned-ugly-grid-container">
                 <div className="ugly-row">
-                    <div className="ugly-column">
-                        <UglyProject projects={uglyProjects} />
-                    </div>
+                    {/* <div className="ugly-column">
+                        <Project projects={projects} />
+                    </div> */}
                 </div>
             </div>
         </div>

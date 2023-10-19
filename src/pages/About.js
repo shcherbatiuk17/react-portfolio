@@ -1,5 +1,5 @@
 import React from 'react';
-import UglyProfilePhoto from '../assets/images/ugly-profile-photo.png';
+// import UglyProfilePhoto from '../assets/images/ugly-profile-photo.png';
 import { Divider } from 'semantic-ui-react'
 
 const styles = {
@@ -27,9 +27,9 @@ const UglyAbout = () => {
                         <h3 className="ui header" style={{ color: 'orange' }}>I'M UGLY.</h3>
                         <p style={{ fontSize: '14px' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is intentionally ugly text.</p>
                     </div>
-                    <div className="six wide right floated column">
+                    {/* <div className="six wide right floated column">
                         <img className="ui medium fluid image" src={UglyProfilePhoto} alt="Ugly Avatar"></img>
-                    </div>
+                    </div> */}
                 </div>
                 <Divider style={styles.divider} vertical></Divider>
             </div>

@@ -15,7 +15,7 @@ const uglyStyles = {
   },
 };
 
-export default function Project({ projects }) {
+export default function Projects({ projects }) {
   return (
     <Grid className="ugly-grid">
       <Card.Group>
