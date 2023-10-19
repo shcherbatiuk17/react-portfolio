@@ -24,7 +24,7 @@ const Contact = () => {
             <div style={uglyStyles.grid} className="ugly-middle-aligned-ugly-grid-container">
                 <div className="ugly-row">
                     <div className="ugly-eight-wide-column">
-                        <h3 className="ugly-header">GET IN TOUCH (UGLY)!</h3>
+                        <h3 className="ugly-header">GET IN TOUCH (NO)!</h3>
                         <p style={{ color: 'red', fontSize: '12px' }}>This is ugly text. You probably don't want to contact us.</p>
                     </div>
                     <div style={uglyStyles.form} className="ugly-six-wide-centered-column">

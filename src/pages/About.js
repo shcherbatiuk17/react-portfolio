@@ -22,10 +22,10 @@ const UglyAbout = () => {
             <div style={styles.grid} className="ui middle aligned stackable grid container">
                 <div className="row">
                     <div className="eight wide column">
-                        <h3 className="ui header" style={{ color: 'purple' }}>UGLY GREETINGS!</h3>
-                        <p style={{ fontSize: '14px' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is intentionally ugly text.</p>
-                        <h3 className="ui header" style={{ color: 'orange' }}>I'M UGLY.</h3>
-                        <p style={{ fontSize: '14px' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is intentionally ugly text.</p>
+                        <h3 className="ui header" style={{ color: 'purple' }}>UGLYIEST PORTFOLIO IN THE WORLD!</h3>
+                        <p style={{ fontSize: '14px' }}>VERY IMPORTANT INFO:Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is intentionally ugly text.</p>
+                        <h3 className="ui header" style={{ color: 'orange' }}>I CAN DO NOTHING.</h3>
+                        <p style={{ fontSize: '14px' }}>ANOTHER IMPORTANT STUFF GO HERE:Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is intentionally ugly text.</p>
                     </div>
                     {/* <div className="six wide right floated column">
                         <img className="ui medium fluid image" src={UglyProfilePhoto} alt="Ugly Avatar"></img>

@@ -28,22 +28,22 @@ export default function Navbar() {
       <ul style={uglyStyles.list}>
         <li>
           <NavLink style={uglyStyles.link} className="ugly-link" to="/">
-            Weird
+            Not your Home
           </NavLink>
         </li>
         <li>
-          <NavLink style={uglyStyles.link} className="ugly-link" to="/ugly-portfolio">
-            Bizarre
+          <NavLink style={uglyStyles.link} className="ugly-link" to="/portfolio">
+             I have no Portfolio 
           </NavLink>
         </li>
         <li>
-          <NavLink style={uglyStyles.link} className="ugly-link" to="/ugly-resume">
-            Strange
+          <NavLink style={uglyStyles.link} className="ugly-link" to="/resume">
+            My amazing resume
           </NavLink>
         </li>
         <li>
-          <NavLink style={uglyStyles.link} className="ugly-link" to="/ugly-contact">
-            Odd
+          <NavLink style={uglyStyles.link} className="ugly-link" to="/contact">
+            Do not connect me ever
           </NavLink>
         </li>
       </ul>

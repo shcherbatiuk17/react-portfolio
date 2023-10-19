@@ -17,9 +17,7 @@ const Portfolio = () => {
         <div className="ugly-vertical-segment">
             <div style={Styles.grid} className="ugly-middle-aligned-ugly-grid-container">
                 <div className="ugly-row">
-                    {/* <div className="ugly-column">
-                        <Project projects={projects} />
-                    </div> */}
+                  Nope
                 </div>
             </div>
         </div>

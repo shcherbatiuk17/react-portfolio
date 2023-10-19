@@ -13,7 +13,7 @@ const uglyStyles = {
 export default function Heading() {
     return (
         <header>
-            <Header as='h1' style={uglyStyles.header} className="weird-name-heading">Bimbo</Header>
+            <Header as='h1' style={uglyStyles.header} className="weird-name-heading">Naruto Uzumaki</Header>
         </header>
     )
 }

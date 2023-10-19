@@ -35,9 +35,9 @@ const Resume = () => {
             <div style={uglyStyles.grid} className="ugly-stackable-grid-container">
                 <div className="ugly-row">
                     <div className="ugly-column">
-                        <h3 style={uglyStyles.centeredHeader}>Ugly Browser Based Technologies</h3>
+                        <h3 style={uglyStyles.centeredHeader}>Marian (maybe)Shcherbatiuk </h3>
                         <ul style={uglyStyles.uglyList}>
-                            <li>Lorem Ipsum</li>
+                            <li>I don't want to work</li>
                             <li>Lorem Ipsum</li>
                             <li>Lorem Ipsum</li>
                             <li>Lorem Ipsum</li>
@@ -45,22 +45,22 @@ const Resume = () => {
                             <li>Lorem Ipsum</li>
                             <li>Lorem Ipsum</li>
                         </ul>
-                        <h3 style={uglyStyles.centeredHeader}>Ugly Databases</h3>
+                        <h3 style={uglyStyles.centeredHeader}>Databases</h3>
                         <ul style={uglyStyles.uglyList}>
-                            <li>Lorem Ipsum</li>
+                            <li>Im bad in it</li>
                             <li>Lorem Ipsum</li>
                         </ul>
-                        <h3 style={uglyStyles.centeredHeader}>Ugly Server Side Development</h3>
+                        <h3 style={uglyStyles.centeredHeader}> Server Side Development</h3>
                         <ul style={uglyStyles.uglyList}>
-                            <li>Lorem Ipsum</li>
+                            <li>Not really</li>
                             <li>Lorem Ipsum</li>
                             <li>Lorem Ipsum</li>
                         </ul>
                     </div>
                     <div className="ugly-right-floated-column">
-                        <h3 style={uglyStyles.centeredHeader}>Ugly API Design</h3>
+                        <h3 style={uglyStyles.centeredHeader}> API Design</h3>
                         <ul style={uglyStyles.uglyList}>
-                            <li>Lorem Ipsum</li>
+                            <li>I have no idea what is that</li>
                             <li>Lorem Ipsum</li>
                             <li>Lorem Ipsum</li>
                             <li>Lorem Ipsum</li>
