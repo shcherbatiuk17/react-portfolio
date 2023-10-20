@@ -5,9 +5,9 @@ import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
-import Heading from './components/Heading';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
+import Heading from './components/heading';
+import Navbar from './components/navbar';
+import Footer from './components/footer';
 import './index.css'
 
 
