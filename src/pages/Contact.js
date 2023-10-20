@@ -1,7 +1,7 @@
 import React from 'react';
 import { Divider } from 'semantic-ui-react'
 
-import UglyContactForm from '../components/Contactform'
+import UglyContactForm from '../components/contactform'
 
 const uglyStyles = {
     grid: {
